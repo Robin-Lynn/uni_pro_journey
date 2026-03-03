@@ -37,5 +37,4 @@ def main():
         elif choice == "Q" or choice == "q":
             done = True
 
-# Program ကို စတင် run ရန် (Indentation မပါရပါ)
 main()
